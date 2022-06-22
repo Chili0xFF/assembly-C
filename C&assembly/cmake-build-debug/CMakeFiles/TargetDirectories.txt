@@ -1,0 +1,3 @@
+C:/Users/artix/Documents/TIN/lab9/moje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artix/Documents/TIN/lab9/moje/cmake-build-debug/CMakeFiles/moje.dir
+C:/Users/artix/Documents/TIN/lab9/moje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
